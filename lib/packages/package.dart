@@ -7,3 +7,4 @@ export 'package:bmi_calculator/screens/result_page.dart';
 export 'package:bmi_calculator/screens/input_page.dart';
 export 'package:bmi_calculator/Logic/bmi_calculation.dart';
 export 'package:fluttertoast/fluttertoast.dart';
+export 'package:flutter/services.dart';
